@@ -1,0 +1,43 @@
+/* Color through name  */
+/* h1{
+    color: red;
+} */
+
+
+/* color Through hexadecimal code  */
+/* h1{
+    color: #234214
+} */
+
+
+/* Color Through RGB */
+/* h1{
+    color: rgb(147, 89, 41);
+} */
+
+
+/* Background Color */
+/* body{
+    background-color: wheat;
+    color: red;
+} */
+
+
+/* div{
+    background-color: wheat;
+    color: blue;
+} */
+
+
+/* Opacity */
+/* #div1{
+    background-color: green;
+    opacity: 0.9;
+} */
+
+
+
+img{
+    opacity: 0.5;
+}
+
